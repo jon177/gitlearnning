@@ -1,2 +1,2 @@
 this is an example git learn
-this is two changes
+this is two changes is master
